@@ -1,1 +1,3 @@
-# Facial-Gender-Recognition---IndonesiaAI
+# Facial-Gender-Recognition-IndonesiaAI
+
+More detail at presentation file
